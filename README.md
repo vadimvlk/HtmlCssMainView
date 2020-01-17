@@ -1,0 +1,1 @@
+Simple beautiful Main view based on Html and Css
