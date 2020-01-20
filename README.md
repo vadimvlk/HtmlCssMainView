@@ -1,1 +1,5 @@
-Simple beautiful Main view based on Html and Css
+Simple beautiful preview Main view based on Html and Css
+
+No JavaScript!
+
+![](preview.gif)
